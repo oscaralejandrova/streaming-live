@@ -1,0 +1,40 @@
+.footer-container {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+
+.footer-header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.footer-links {
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-copyright {
+    font-size: 0.875rem;
+}
+
+.footer-social {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.footer-social-icon {
+    height: 2rem;
+    margin: 0 0.5rem;
+}
+
+.footer-stores {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-store-icon {
+    height: 2rem;
+    margin: 0 0.5rem;
+}

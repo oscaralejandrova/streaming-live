@@ -1,0 +1,37 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+}
+
+.home-page {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    background: linear-gradient(135deg, #1d2cb0, #9b2db0);
+    border-radius: 5%;
+}
+
+.title-one {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #1f2124;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
